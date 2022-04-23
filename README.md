@@ -8,6 +8,7 @@ Time spent: **2** hours spent in total
 
 Link to project: https://grizzly-invited-eucalyptus.glitch.me
 
+
 ## Required Functionality
 
 The following **required** functionality is complete:
@@ -32,15 +33,11 @@ The following **optional** features are implemented:
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
+
 ## Video Walkthrough (GIF)
 
 ![prework](https://user-images.githubusercontent.com/99054756/164874632-f0210948-b997-4fa5-8f89-6bb242329371.gif)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -54,7 +51,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
-
 
 
 ## Interview Recording URL Link
